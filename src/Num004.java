@@ -47,7 +47,7 @@ public class Num004 {
             }
         }
         if (nums2 == null || nums2.length == 0) {
-            if (nums1.length % 2 == 0) {
+            if (nums1.length % 2 == 0) {  // nums1.length / 2 第m大的数，但下标要减一
                 System.out.print("-- " + (double) (nums1[nums1.length / 2 - 1] + nums1[nums1.length / 2]) / 2);
                 return (double) (nums1[nums1.length / 2 - 1] + nums1[nums1.length / 2]) / 2;
             } else {
@@ -60,7 +60,7 @@ public class Num004 {
         int max_j = nums2.length - 1;
 
         if ((nums1.length + nums2.length) % 2 == 0) {  //  如果是偶数个，则中间两个数，取均值
-            int m = (nums1.length + nums2.length) / 2;
+            int m = (nums1.length + nums2.length) / 2;   //  第m大的数
             int m2 = (nums1.length + nums2.length) / 2 + 1;
             int r1 = getNum(m, max_i, max_j, nums1, nums2);
             int r2 = getNum(m2, max_i, max_j, nums1, nums2);

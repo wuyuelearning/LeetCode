@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84700669-cf39-4591-8aec-c9b3b591fee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Num003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="84700669-cf39-4591-8aec-c9b3b591fee8" name="Default Changelist" comment="第三题 提交">
+      <change afterPath="$PROJECT_DIR$/src/Num005_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Num006.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/src/ICoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first/src/ICoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/src/ILogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first/src/ILogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/src/Javaer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first/src/Javaer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first/src/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/src/Pythoner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first/src/Pythoner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/src/UserLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first/src/UserLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/src/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first/src/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/src/loadProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first/src/loadProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-projects/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-projects/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-projects/www/account_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-projects/www/account_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-projects/www/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-projects/www/first.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-projects/www/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-projects/www/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-projects/www/replacestring.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-projects/www/replacestring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-projects/www/request1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-projects/www/request1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-projects/www/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-projects/www/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-projects/www/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-projects/www/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-projects/www/toutiao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-projects/www/toutiao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-projects/www/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-projects/www/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Num004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Num004.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,30 +19,35 @@
     <session id="-61149453">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="8" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="8" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1103" />
+          <entry key="java" value="4525" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1103" />
+          <entry key="JAVA" value="4525" />
+          <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -68,17 +57,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Num002.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            <state relative-caret-position="800">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Num004.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="58" column="37" lean-forward="true" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Num006.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="64" column="37" lean-forward="true" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Num005_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Num003.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+            <state relative-caret-position="950">
+              <caret line="38" column="5" selection-start-line="32" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -93,6 +109,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -100,6 +117,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/Num002.java" />
         <option value="$PROJECT_DIR$/src/Num003.java" />
+        <option value="$PROJECT_DIR$/src/Num004.java" />
+        <option value="$PROJECT_DIR$/src/Num006.java" />
+        <option value="$PROJECT_DIR$/src/Num005_1.java" />
       </list>
     </option>
   </component>
@@ -109,7 +129,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-36" />
     <option name="width" value="1230" />
     <option name="height" value="1000" />
@@ -133,6 +153,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,13 +175,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562849876320" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563443191889" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -178,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Num003">
+  <component name="RunManager" selected="Application.Num005_1">
     <configuration name="Num002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num002" />
       <module name="LeetCode" />
@@ -193,12 +213,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Num004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num004" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num005_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num005_1" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num006" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Num002" />
       <item itemvalue="Application.Num003" />
+      <item itemvalue="Application.Num004" />
+      <item itemvalue="Application.Num006" />
+      <item itemvalue="Application.Num005_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num005_1" />
+        <item itemvalue="Application.Num006" />
+        <item itemvalue="Application.Num004" />
         <item itemvalue="Application.Num003" />
         <item itemvalue="Application.Num002" />
       </list>
@@ -216,17 +263,27 @@
       <updated>1562815780186</updated>
       <workItem from="1562815782931" duration="1156000" />
       <workItem from="1562843246257" duration="5549000" />
+      <workItem from="1562913128745" duration="15149000" />
+      <workItem from="1563190807052" duration="17624000" />
     </task>
+    <task id="LOCAL-00001" summary="第三题 提交">
+      <created>1562913413969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562913413969</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6705000" />
+    <option name="totallyTimeSpent" value="39478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16204691" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -236,13 +293,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21516165" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41694537" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4760312" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.15719064" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32962137" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32887402" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -260,45 +317,112 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="第三题 提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三题 提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Num003.java</url>
-          <line>58</line>
+          <url>file://$PROJECT_DIR$/src/Num004.java</url>
+          <line>86</line>
           <properties />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Num003.java</url>
-          <line>96</line>
+          <url>file://$PROJECT_DIR$/src/Num006.java</url>
+          <line>61</line>
           <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Num003.java</url>
-          <line>104</line>
-          <properties />
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>(nums2[nums2.length / 2 + 1])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(double) (nums1[nums1.length / 2] + nums1[nums1.length / 2 + 1]) / 2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Num002.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        <state relative-caret-position="800">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Num003.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+        <state relative-caret-position="950">
+          <caret line="38" column="5" selection-start-line="32" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Num004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="58" column="37" lean-forward="true" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Num006.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="64" column="37" lean-forward="true" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Num005_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
         </state>
       </provider>
     </entry>
