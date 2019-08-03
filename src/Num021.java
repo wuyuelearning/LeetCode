@@ -73,7 +73,7 @@ public class Num021 {
                 while (l2 != null) {
                     l3.val = l2.val;
                     l2 = l2.next;
-                    if (l2 != null) {
+                    if (l2 != null) {  //  这里需要注意判空
                         l3.next = new ListNode(0);
                         l3 = l3.next;
                     }
@@ -83,7 +83,7 @@ public class Num021 {
                 while (l1 != null) {
                     l3.val = l1.val;
                     l1 = l1.next;
-                    if (l1 != null) {
+                    if (l1 != null) { //  这里需要注意判空
                         l3.next = new ListNode(0);
                         l3 = l3.next;
                     }
