@@ -64,15 +64,6 @@ public class Num019 {
         return saved;
 
     }
-
-    static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
 }
 
 

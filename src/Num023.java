@@ -1,45 +1,49 @@
 /**
- * Created by wuyue on 2019/8/3.
+ * Created by wuyue on 2019/8/7.
+ * 合并 k 个排序链表，返回合并后的排序链表。请分析和描述算法的复杂度。
  *
- * 将两个有序链表合并为一个新的有序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。 
+ * 示例:
  *
- * 示例：
- *
- * 输入：1->2->4, 1->3->4
- * 输出：1->1->2->3->4->4
+ * 输入:
+ * [
+ *   1->4->5,
+ *   1->3->4,
+ *   2->6
+ * ]
+ * 输出: 1->1->2->3->4->4->5->6
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/merge-two-sorted-lists
+ * 链接：https://leetcode-cn.com/problems/merge-k-sorted-lists
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+ *
+ *
+ * 使用两个链表合并，每次添加一个listNode[]中的链表
  */
-public class Num021 {
+public class Num023 {
 
     public static void main(String[] args) {
+        int[] a1 = {1, 2, 3, 4, 5, 6, 7};
+        int[] a2 = {1, 12, 32, 41, 51, 66, 87};
+        int[] a3 = {1, 2, 23, 34, 55, 76, 87};
+        ListNode l1 = Num000.getNodeList(a1);
+        ListNode l2 = Num000.getNodeList(a2);
+        ListNode l3 = Num000.getNodeList(a3);
+        ListNode[] s = {l1, l2, l3};
+        Num000.printListNode(mergeKLists(s));
+    }
 
 
-        ListNode l1 = new ListNode(1);
-        ListNode l2 = new ListNode(2);
-        ListNode l3 = new ListNode(4);
+    public static ListNode mergeKLists(ListNode[] lists) {
 
-
-        ListNode a1 = new ListNode(1);
-        ListNode a2 = new ListNode(3);
-        ListNode a3 = new ListNode(4);
-
-
-        l1.next = l2;
-        l2.next = l3;
-
-        a1.next = a2;
-        a2.next = a3;
-
-
-        ListNode l = mergeTwoLists(l1, a1);
-        while (l != null) {
-            System.out.print("   " + l.val);
-            l = l.next;
+        if (lists.length == 0) {
+            return null;
         }
 
+        ListNode l1 = lists[0];
+        for (int i = 1; i < lists.length; i++) {
+            l1 = mergeTwoLists(lists[i], l1);
+        }
+        return l1;
     }
 
     private static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
@@ -99,5 +103,6 @@ public class Num021 {
         }
         return l4;
     }
+
 
 }

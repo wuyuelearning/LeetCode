@@ -106,15 +106,4 @@ public class Num002 {
         }
         return node4;
     }
-
-
-    //Definition for singly-linked list.
-    static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
 }
