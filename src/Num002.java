@@ -18,6 +18,9 @@
  *  * 链接：https://leetcode-cn.com/problems/add-two-numbers
  *  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  *  *
+ *
+ *  执行用时 :6 ms, 在所有 Java 提交中击败了85.43% 的用户
+ *  内存消耗 : 43.5 MB, 在所有 Java 提交中击败了88.54%的用户
  */
 public class Num002 {
     public static void main(String[] args) {

@@ -29,6 +29,10 @@ import java.util.List;
  * 链接：https://leetcode-cn.com/problems/two-sum/solution/di-gui-fa-by-qiu-xiao-dao/
  * 来源：力扣（LeetCode）
  * 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+ *
+ *
+ * 执行用时 :3 ms, 在所有 Java 提交中击败了84.92%的用户
+ * 内存消耗 :37.7 MB, 在所有 Java 提交中击败了77.75%的用户
  */
 public class Num022 {
     private static ArrayList<String> list = new ArrayList<>();

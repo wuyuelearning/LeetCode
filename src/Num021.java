@@ -11,6 +11,11 @@
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/merge-two-sorted-lists
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+ *
+ * 执行用时 :2 ms, 在所有 Java 提交中击败了76.64%的用户
+ * 内存消耗 :36.6 MB, 在所有 Java 提交中击败了86.98%的用户
+ *
+ *
  */
 public class Num021 {
 

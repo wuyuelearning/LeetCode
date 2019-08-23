@@ -51,6 +51,8 @@
  *
  *  更新t
  *
+ * 执行用时 :2 ms, 在所有 Java 提交中击败了92.23%的用户
+ * 内存消耗 :45.1 MB, 在所有 Java 提交中击败了70.25%的用户
  */
 public class Num026 {
     public static void main(String[] args) {

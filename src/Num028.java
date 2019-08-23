@@ -22,6 +22,9 @@
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/implement-strstr
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+ *
+ * 执行用时 :3 ms, 在所有 Java 提交中击败了50.68%的用户
+ * 内存消耗 :36.2 MB, 在所有 Java 提交中击败了83.39%的用户
  */
 public class Num028 {
     public static void main(String[] args) {

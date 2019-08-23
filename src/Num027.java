@@ -45,6 +45,9 @@
  *
  * 思路 ：
  * 整体左移
+ *
+ * 执行用时 :1 ms, 在所有 Java 提交中击败了96.70%的用户
+ * 内存消耗 :36.1 MB, 在所有 Java 提交中击败了84.18% 的用户
  */
 public class Num027 {
     public static void main(String[] args) {
