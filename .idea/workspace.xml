@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84700669-cf39-4591-8aec-c9b3b591fee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Num030_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Num031.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Num002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Num002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Num021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Num021.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Num022.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Num022.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Num023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Num023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Num024.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Num024.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Num026.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Num026.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Num027.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Num027.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Num028.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Num028.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Num030_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Num030_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Num002.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Num002.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,12 +27,13 @@
     <session id="-61149453">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="5" />
-          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,8 +41,8 @@
           <entry key="class" value="13" />
           <entry key="groovy" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="104" />
-          <entry key="md" value="1" />
+          <entry key="java" value="105" />
+          <entry key="md" value="2" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
@@ -58,8 +50,8 @@
         <counts>
           <entry key="CLASS" value="13" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="104" />
-          <entry key="Markdown" value="1" />
+          <entry key="JAVA" value="105" />
+          <entry key="Markdown" value="2" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="4" />
         </counts>
@@ -68,17 +60,17 @@
         <counts>
           <entry key="class" value="19" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="31749" />
-          <entry key="md" value="272" />
-          <entry key="txt" value="151" />
+          <entry key="java" value="33692" />
+          <entry key="md" value="339" />
+          <entry key="txt" value="183" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="19" />
-          <entry key="JAVA" value="31749" />
-          <entry key="Markdown" value="272" />
-          <entry key="PLAIN_TEXT" value="152" />
+          <entry key="JAVA" value="33692" />
+          <entry key="Markdown" value="339" />
+          <entry key="PLAIN_TEXT" value="184" />
         </counts>
       </usages-collector>
     </session>
@@ -89,13 +81,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-679">
-                <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/Num031.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -103,8 +92,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Num021.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="575">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -112,7 +101,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Num022.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="775">
               <caret line="33" selection-start-line="33" selection-end-line="34" selection-end-column="42" />
             </state>
           </provider>
@@ -186,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/Num022.java" />
         <option value="$PROJECT_DIR$/src/Num021.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Num031.java" />
       </list>
     </option>
   </component>
@@ -250,6 +240,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,13 +262,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566560487447" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571311454793" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -298,16 +288,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Num030_2">
+  <component name="RunManager" selected="Application.Num031">
     <configuration name="Num013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num013" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num029" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -334,20 +317,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Num031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num031" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Num013" />
-      <item itemvalue="Application.Num029" />
       <item itemvalue="Application.Num030" />
       <item itemvalue="Application.Num030_1" />
       <item itemvalue="Application.Num030_2" />
+      <item itemvalue="Application.Num031" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num031" />
         <item itemvalue="Application.Num030_2" />
         <item itemvalue="Application.Num030_1" />
         <item itemvalue="Application.Num013" />
         <item itemvalue="Application.Num030" />
-        <item itemvalue="Application.Num029" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +368,10 @@
       <workItem from="1566184660690" duration="138000" />
       <workItem from="1566184823498" duration="750000" />
       <workItem from="1566185598688" duration="53574000" />
-      <workItem from="1566473095196" duration="13294000" />
+      <workItem from="1566473095196" duration="15530000" />
+      <workItem from="1567148687825" duration="9627000" />
+      <workItem from="1567241527455" duration="546000" />
+      <workItem from="1571223984670" duration="13996000" />
     </task>
     <task id="LOCAL-00001" summary="第三题 提交">
       <created>1562913413969</created>
@@ -464,11 +457,25 @@
       <option name="project" value="LOCAL" />
       <updated>1566438035223</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="第三十一题，readme修改">
+      <created>1566560512494</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1566560512494</updated>
+    </task>
+    <task id="LOCAL-00014" summary="第三十题，readme修改">
+      <created>1566560542533</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1566560542533</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="300044000" />
+    <option name="totallyTimeSpent" value="326449000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -481,8 +488,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49721295" visible="true" weight="0.19296375" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49721295" visible="true" weight="0.19936034" />
       <window_info id="Structure" order="1" sideWeight="0.5028818" side_tool="true" weight="0.16471216" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -491,12 +499,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.50278705" side_tool="true" weight="0.19083156" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.21293199" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.16610925" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25195095" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.41917503" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.18060201" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.48049054" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.4425864" />
@@ -560,7 +568,9 @@
     <MESSAGE value="第二十二题、第二十三题，增加Num00作为工具类" />
     <MESSAGE value="第二十四题到第二十八题" />
     <MESSAGE value="第二十九题、第三十题" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二十九题、第三十题" />
+    <MESSAGE value="第三十一题，readme修改" />
+    <MESSAGE value="第三十题，readme修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三十题，readme修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -727,11 +737,38 @@
           <properties />
           <option name="timeStamp" value="94" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Num031.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Num031.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>nums[i++]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nums[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nums[i] &gt; nums[i++]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>s.length() - len</expression-string>
         <language-id>JAVA</language-id>
@@ -762,31 +799,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>last.next</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>last.next.next</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>nums[i] + nums[len - 3] + nums[len - 2] + nums[len - 1]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Num005_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="821">
-          <caret line="104" column="27" lean-forward="true" selection-start-line="104" selection-start-column="27" selection-end-line="104" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Num006.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="821">
@@ -948,10 +963,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,10 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="1962" selection-start-line="1962" selection-end-line="1962" />
-          <folding>
-            <element signature="e#56437#56438#0" expanded="true" />
-            <element signature="e#56514#56515#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1025,9 +1032,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1049,9 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1104,27 +1105,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Num022.java">
+    <entry file="file://$PROJECT_DIR$/src/Num021.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="33" selection-start-line="33" selection-end-line="34" selection-end-column="42" />
+        <state relative-caret-position="575">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Num021.java">
+    <entry file="file://$PROJECT_DIR$/src/Num022.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="775">
+          <caret line="33" selection-start-line="33" selection-end-line="34" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-679">
-            <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <first_editor relative-caret-position="375">
+            <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Num031.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
         </state>
       </provider>
     </entry>
