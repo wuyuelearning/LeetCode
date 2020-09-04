@@ -43,6 +43,7 @@ public class BFS1 {
             print(queue);
             Node temp =queue.poll();
             for (int i=0;i<4;i++){
+                // 在队列头部的元素，下一步的坐标
                 int next_i  =temp.x+dir[i][0];
                 int next_j = temp.y+dir[i][1];
                 if (check(next_i,next_j)){
