@@ -14,7 +14,6 @@ public class Group {
 
     private void fun() {
 
-
         List<Demo> f = new ArrayList<>();
         f.add(new Demo("1", Arrays.asList("A", "B", "C")));
         f.add(new Demo("2", Arrays.asList("B", "E", "C")));
